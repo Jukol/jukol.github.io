@@ -1,4 +1,3 @@
-
 ![image](/assets/images/small.jpg)
 
 ## Oleh Yukhymenko, a passionate gamer and Unity Developer
