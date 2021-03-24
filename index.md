@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Oleh Yukhymenko, a passionate gamer and Unity Developer
 
-You can use the [editor on GitHub](https://github.com/Jukol/jukol.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I have always had a passion for languages and video games. Working as a translator for many years, I realized that I reached my limit in this area. So, I decided to pursue the other passion of mine – gaming and game development. The pandemic made it possible to study hard and develop the necessary skills. I built [my first simple mobile game](https://github.com/Jukol/Fifteen), which you can [find on Google Play](https://play.google.com/store/apps/details?id=com.OlehYukhymenko.Fifteen). Building the game, I had an opportunity to apply my skills in C# and OOP I had learned in various free and paid online courses. Currently, I am building another game—[a space shooter](https://github.com/Jukol/Space_Shooter/tree/master), and looking for an opportunity to grow as a Unity3D game developer in a team of highly experienced professionals.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Hard Skils
 
-### Markdown
+-	OOP
+-	C#
+-	Code Design Patterns
+-	Unity: Animation, Scriptable Objects, DOTween, etc.
+-	Git
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### GameDev-Related Skills:
 
-```markdown
-Syntax highlighted code block
+- Blender, Photoshop
 
-# Header 1
-## Header 2
-### Header 3
+### Soft Skils
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jukol/jukol.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-	Highly Proficient in English
+- Fast learner
+- Time management
