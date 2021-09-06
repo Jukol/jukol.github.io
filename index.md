@@ -6,8 +6,8 @@ I have always had a passion for languages and video games. Working as a translat
 
 ### Experience
 
-October 2020 - April 2021: Indie - developing [Little Fifteen](https://github.com/Jukol/Fifteen) game
-May 2021 - present: Hyper Factory - working on a 2D study game for kids
+- October 2020 - April 2021: Indie - developing [Little Fifteen](https://github.com/Jukol/Fifteen) game
+- May 2021 - present: Hyper Factory - working on a 2D study game for kids
 
 ### Hard Skils
 
