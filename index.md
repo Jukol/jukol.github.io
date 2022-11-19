@@ -7,8 +7,12 @@ I have always had a passion for languages and video games. Working as a translat
 ### Experience
 
 - October 2020 - April 2021: Indie - developing [Little Fifteen](https://github.com/Jukol/Fifteen) game
-- May 2021 - November 2021: Hyper Factory, a 2D study game for kids, part of the development team
-- November 2021 - present: Hyper Factory, a Hero Wars type of game, part of the development team
+- May 2021 - present: Hyper Factory - among other things worked on the following:
+  1. Study game for kids - game mechanics
+  2. Mushro Legends, an autobattle game - GUI
+  3. Bitsiders, a GPS-based, NFT lottery kind of game - from scratch
+  4. Bulldozer, a clear-territory-from-debris game, API interaction
+
 
 ### Hard Skils
 
