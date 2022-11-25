@@ -17,11 +17,7 @@
 
 ### Hard Skils
 
--	OOP
--	C#
--	Code Design Patterns
--	Unity: Animation, Scriptable Objects, DOTween, Zenject, UniRX, etc.
--	Git
+OOP, C#, Unity, design patterns, SOLID, REST API, Git (GitKraken, GitHub Desktop, Git Bash), Zenject, UniRX, DOTween, Photon, Fishnet, JetBrains Rider, MS Visual Studio, MS Visual Studio Code
 
 ### GameDev-Related Skills:
 
