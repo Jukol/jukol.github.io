@@ -15,7 +15,7 @@
 
 ### Own Pet Projects
 - [2D Space Shooter (GitHub code)](https://github.com/Jukol/Space_Shooter/tree/master)
-- [Little Fifteen (Google Play)](https://play.google.com/store/apps/details?id=com.OlehYukhymenko.Fifteen): [GitHub code)](https://github.com/Jukol/Fifteen)
+- [Little Fifteen (Google Play)](https://play.google.com/store/apps/details?id=com.OlehYukhymenko.Fifteen): [GitHub code](https://github.com/Jukol/Fifteen)
 
 ### Hard Skils
 
